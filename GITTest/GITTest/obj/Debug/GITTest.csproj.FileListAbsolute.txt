@@ -1,0 +1,5 @@
+C:\Projects_Newest\Pedro123\GITTest\GITTest\bin\Debug\GITTest.exe
+C:\Projects_Newest\Pedro123\GITTest\GITTest\bin\Debug\GITTest.pdb
+C:\Projects_Newest\Pedro123\GITTest\GITTest\obj\Debug\GITTest.csprojResolveAssemblyReference.cache
+C:\Projects_Newest\Pedro123\GITTest\GITTest\obj\Debug\GITTest.exe
+C:\Projects_Newest\Pedro123\GITTest\GITTest\obj\Debug\GITTest.pdb

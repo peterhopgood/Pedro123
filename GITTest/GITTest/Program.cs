@@ -9,7 +9,7 @@ namespace GITTest
     {
         static void Main(string[] args)
         {
-            Console.Write("This is a message from the console");
+            Console.Write("This is a message from the laptop");
         }
     }
 }
